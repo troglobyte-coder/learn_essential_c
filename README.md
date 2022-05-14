@@ -1,10 +1,10 @@
-# learning_module
+# learning_c
 
 ## overview
 
 The learning module is a tool to help you
 learn with a hands-on approach to coding,
-in this case, it's written in `X`, it also
+in this case, it's written in `C`, it also
 includes notes throughout the project to
 give further information.
 
